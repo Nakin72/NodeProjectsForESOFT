@@ -1,0 +1,15 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "typescript",
+			"tsconfig": "ESOFTPorjects/TestTask3_ClosedBrackets/tsconfig.json",
+			"option": "watch",
+			"problemMatcher": [
+				"$tsc-watch"
+			],
+			"group": "build",
+			"label": "tsc: watch - ESOFTPorjects/TestTask3_ClosedBrackets/tsconfig.json"
+		}
+	]
+}
